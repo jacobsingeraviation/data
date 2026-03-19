@@ -1669,4 +1669,16 @@
     "callsign": "AXIOM",
     "virtual": true
   }
+  {
+    "icao": "LKJ",
+    "name": "Four Lakes",
+    "callsign": "LAKE JET",
+    "virtual": true
+  }
+  {
+    "icao": "LKS",
+    "name": "Four Lakes",
+    "callsign": "LAKE SHORE",
+    "virtual": true
+  }  
 ]
