@@ -1669,4 +1669,10 @@
     "callsign": "AXIOM",
     "virtual": true
   }
+  {
+    "icao": "LKJ",
+    "name": "Four Lakes Aviation Management LLC",
+    "callsign": "LAKE JET",
+    "virtual": true
+  }  
 ]
